@@ -15,8 +15,9 @@
 
 - 💬 Ask me about **front end**
 
-- 📫 How to reach me **darunima45@gmail.com**
+- 📫 How to reach me **arunimadutta16@gmail.com**
 
+[![An image of @arunimachintu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arunimachintu)](https://holopin.io/@arunimachintu)
 
 
 
