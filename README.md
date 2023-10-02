@@ -17,6 +17,9 @@
 
 - 📫 How to reach me **darunima45@gmail.com**
 
+![DigitalOcean Smiley](https://www.holopin.io/userbadge/cln8uveuh06390fmp3bu5m3po)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
